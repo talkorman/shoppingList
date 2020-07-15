@@ -1,0 +1,57 @@
+* {
+    direction: rtl;
+}
+
+h1 {
+    text-align: center;
+}
+
+#start {
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    font-size: large;
+    ;
+}
+
+#buttons {
+    text-align: center;
+}
+
+#agala {
+    z-index: 100;
+    position: fixed;
+    bottom: 0;
+    left: -300px;
+    width: 300px;
+}
+
+#block {
+    text-align: center;
+}
+
+#listFrame {
+    text-align: center;
+    width: 400px;
+}
+
+ol {
+    text-align: left;
+    width: 200px;
+    text-align: center;
+    display: block;
+}
+
+li p {
+    display: inline;
+}
+
+#item0,
+#item1,
+#item2,
+#item3,
+#item4 {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+}
